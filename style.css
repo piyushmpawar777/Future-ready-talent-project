@@ -1,0 +1,31 @@
+#main {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/corona-tracker-social-image-1.jpg") top center;
+  background-size: cover;
+  position: relative;
+}
+#main .container {
+  position: relative;
+  padding-top: 74px;
+  text-align: center;
+}
+#main h1 {
+  margin: 0;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 64px;
+  color: red;
+}
+#main h2 {
+  color: rgba(255, 255, 255, 0.9);
+  margin: 10px 0 0 0;
+  font-size: 24px;
+  color: red;
+}
+#footer {
+  background: black;
+  padding: 0 0 30px 0;
+  color: #fff;
+  font-size: 14px;
+}
